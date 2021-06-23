@@ -515,8 +515,9 @@ img {
         margin-right: var(--mb-4);
     }
     .home__img {
-        width: 457px;
-        bottom: 15%;
+        width: 350px;
+        height: 300px;
+        bottom: 40%;
     }
     .about__container,
     .skills__container {
