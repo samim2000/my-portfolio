@@ -1,1 +1,1 @@
-# my-portfolio
+# To showcase my work and let others know about myself.
