@@ -26,37 +26,48 @@ function linkAction() {
 navLink.forEach(n => n.addEventListener('click', linkAction));
 
 /*===== SCROLL REVEAL ANIMATION =====*/
-const sr = ScrollReveal({
+
+
+/*const sr = ScrollReveal({
     origin: 'top',
     distance: '50px',
-    duration: 1500,
+    duration: 100,
     reset: true
 });
-
+*/
 /*SCROLL HOME*/
+/*
 sr.reveal('.home__title', {});
 sr.reveal('.button', { delay: 100 });
 sr.reveal('.home__img', { delay: 200 });
 sr.reveal('.home__social-icon', { interval: 100 });
+*/
 
 /*SCROLL ABOUT*/
+/*
 sr.reveal('.about__img', {});
 sr.reveal('.about__subtitle', { delay: 150 });
 sr.reveal('.about__text', { delay: 150 });
+*/
 
 /*SCROLL EDUCATION*/
+/*
 sr.reveal('.education__container', {});
 
 sr.reveal('.experiance__container', {});
-
+*/
 /*SCROLL SKILLS*/
+/*
 sr.reveal('.skills__subtitle', {});
 sr.reveal('.skills__text', {});
 sr.reveal('.skills__data', { interval: 100 });
 sr.reveal('.skills__img', { delay: 250 });
-
+*/
 /*SCROLL WORK*/
+/*
 sr.reveal('.work__img', { interval: 100 });
-
+*/
 /*SCROLL CONTACT*/
+/*
 sr.reveal('.contact__input', { interval: 50 });
+*/
